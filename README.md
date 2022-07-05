@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎨A visual communication designer turning into a developer<br>🌱 I’m currently learning Front End Development on my own.<br>💬 Ask me about anything
+🎨A visual communication designer turning into a developer<br>🌱 I’m currently learning front end development on my own.<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
