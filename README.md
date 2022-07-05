@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there!:
 🎨A visual communication designer turning into a developer<br>🌱 I’m currently learning front end development on my own.<br>💬 Ask me about anything
 
 
