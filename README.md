@@ -1,5 +1,5 @@
 # 💫 Hey there!:
-🎨A visual communication designer turning into a web developer<br>🌱 I’m currently learning front end development on my own pace.<br>💬 Ask me about anything<br>📖Recently I am focused on Tailwind and React.<br>👉Here is my personal site www.onurursar.com
+🎨A visual communication designer turning into a web developer<br>🌱 My aim is to be a MERN stack.<br>💬 Ask me about anything<br>📖Recently I am focused on and React and Node.<br>👉Here is my personal site www.onurursar.com
 
 
 ## 🌐 Socials:
