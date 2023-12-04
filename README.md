@@ -1,5 +1,5 @@
 # 💫 Hey there!:
-🎨A visual communication designer turning into a web developer<br>🌱 My aim is to be a MERN stack.<br>💬 Ask me about anything<br>📖Recently I am focused on and React and Node.<br>👉Here is my personal site www.onurursar.com
+🎨I am a freelance web designer and developer<br>🌱 MERN stack and some CMS.<br>💬 Ask me about anything<br>👨‍💻https://www.upwork.com/freelancers/onurursar<br>👉Here is my personal site www.onurursar.com
 
 
 ## 🌐 Socials:
